@@ -14,6 +14,6 @@ paster==0.8
 pycparser==2.19
 requests==2.20.1
 six==1.11.0
-urllib3==1.24.1
+urllib3==1.24.2
 waitress==1.1.0
 Werkzeug==0.15.3
